@@ -1,0 +1,11 @@
+{
+  "title": "Medicare",
+  "description": "Helps hospital patients manage upcoming appointments, book care, browse health services and tips, and access key features from one mobile-friendly app.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
